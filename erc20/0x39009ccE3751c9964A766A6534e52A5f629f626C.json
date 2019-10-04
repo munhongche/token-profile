@@ -1,0 +1,20 @@
+﻿
+{
+  "symbol": "YJS",
+  "address": "0x39009ccE3751c9964A766A6534e52A5f629f626C",
+  "overview":{
+        "en": "Blockchain Donation Token, Payment Stable Coin.",
+        "zh": ""
+  },
+  "email": "munhongggg@naver.com",
+  "website": "http://yjscoin.com/",
+  "whitepaper": "http://yjscoin.com/yjs.pdf",
+  "state": "LOCKED | NORMAL",
+  "published_on": "2019-10-01",
+  "initial_price":{
+        "USD":"0.09 USD"
+  },
+  "links": {
+    "band": "https://band.us/band/76492667"
+  }
+}
